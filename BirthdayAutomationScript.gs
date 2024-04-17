@@ -46,7 +46,7 @@ function setupTrigger() {
 function testSendBirthdayEmails() {
   // Assuming test data in the same format as the Google Sheet
   var testData = [
-    ['John Doe', 'ismail_farooq@students.ocean.edu', '1990-04-17'],
+    ['John Doe', 'EMAIL ADDRESS', '1990-04-17'], //enter email address here
     // Add more test data if needed
   ];
 
